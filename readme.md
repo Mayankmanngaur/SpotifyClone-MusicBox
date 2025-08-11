@@ -32,6 +32,3 @@ This project mimics Spotify's sleek UI, providing an interactive music player ex
 - **Google Fonts**
 
 ---
-
-## 📂 Project Structure
-
